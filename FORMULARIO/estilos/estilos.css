@@ -1,0 +1,66 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    padding: 40px 20px;
+    color: #333;
+  }
+  
+ 
+  .registration-form {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .registration-form h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 24px;
+  }
+
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+
+  .radio-group label {
+    display: inline-block;
+    margin-right: 15px;
+    font-weight: normal;
+  }
+  
+  input[type="radio"] {
+    margin-right: 6px;
+  }
+  
+ 
+  button[type="submit"],
+  .coupon-input button {
+    background-color: #007bff;
+    color
+  }
